@@ -1,0 +1,5 @@
+netconsole module not loaded
+Configured devices:
+lo ens32
+Currently active devices:
+lo ens32 docker0 virbr0
